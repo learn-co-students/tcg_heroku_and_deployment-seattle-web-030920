@@ -18,3 +18,6 @@ class AuthController < ApplicationController
     end
   end
 end
+
+
+# test
